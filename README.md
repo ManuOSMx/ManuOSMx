@@ -9,15 +9,17 @@ Soy Manuel Ortiz, actualmente soy estudiante de Ingeniería en Sistemas Computac
 
 :octocat: Después de 3,000 años por fin empezaré a usar GitHub.
 Aquí encontraras mis programas escolares e incluso algunos proyectos independientes. (Próximamente (☞ﾟヮﾟ)☞ )
-Me encanta aprender e indagar cosas nuevas. 
 
-🎮 
-
-🎨 Y en mis tiempos libres aprendo a modelar en Blender.
+Nunca es tarde para aprender y divertirse.
 
 while(alive) {
+
     eat();
+    
   ~~sleep();~~
+  
     code();
+    
     repeat();
- }😎
+    
+ } 😎
