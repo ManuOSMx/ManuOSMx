@@ -1,6 +1,7 @@
 # Hello There!🦉 
 
-Soy Manuel Ortiz, actualmente soy estudiante de Ingeniería en Sistemas Computacionales en ESCOM-IPN. 💻 
+Soy Manuel Ortiz, actualmente soy estudiante de Ingeniería en Sistemas Computacionales en ESCOM-IPN. 💻
+
 [![Instagram Follow](https://raw.githubusercontent.com/josephLSalgado/josephLSalgado/main/images/instagram_logo.png)](https://www.instagram.com/manu_tgif/)
 
 “Invention is the most important product of man's creative brain. The ultimate purpose is the complete mastery of mind over the material world, the harnessing of human nature to human needs.”
