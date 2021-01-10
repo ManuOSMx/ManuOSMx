@@ -5,6 +5,8 @@
 
 Soy **Manuel Ortiz**, actualmente soy estudiante de Ingeniería en Sistemas Computacionales en **ESCOM-IPN**. 💻
 
+Microsoft Learn Student Ambassador 💻
+
 [![Instagram Follow](https://raw.githubusercontent.com/josephLSalgado/josephLSalgado/main/images/instagram_logo.png)](https://www.instagram.com/manu_tgif/)
 
 :octocat: Después de 3,000 años por fin empezaré a usar GitHub.
