@@ -11,6 +11,7 @@ Microsoft Learn Student Ambassador 💻
 
 :octocat: Después de 3,000 años por fin empezaré a usar GitHub.
 Aquí encontraras mis programas escolares e incluso algunos proyectos independientes. (Próximamente (☞ﾟヮﾟ)☞ )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuosmx&show_icons=true&theme=gotham)
 
 Nunca es tarde para aprender y divertirse.
 
