@@ -4,7 +4,7 @@
 ― Nikola Tesla, My Inventions.*
 
 
-<img align="right" alt="img" width="30%" height="auto" src="https://scontent.fmex5-1.fna.fbcdn.net/v/t1.6435-9/178830821_100309835552110_6277973582375259145_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=_cvqOl2Cxg8AX8RddHA&tn=El4fHH-Spw9zkt7q&_nc_ht=scontent.fmex5-1.fna&oh=9f2f0080809b54523f56317b23748b98&oe=60E036D9" />
+<img align="right" alt="img" width="30%" height="auto" src="https://scontent.fmex5-1.fna.fbcdn.net/v/t1.6435-9/221988173_144961674420259_2802470538519361387_n.png?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeEvNOasE3mh_hgwUCNiiPbFkwpK6CaubX6TCkroJq5tfuRAXcYoFraH6i063glDfubFrXtQ9bYNK5cvi1XQCBqZ&_nc_ohc=4pr0o9uf75IAX9az9kW&_nc_ht=scontent.fmex5-1.fna&oh=e0c8c1b67a62f75756314f0bf87b1326&oe=6130C734" />
 
 
 Soy **Manuel Ortiz**, actualmente soy estudiante de Ingeniería en Sistemas Computacionales en **ESCOM-IPN**. 💻
