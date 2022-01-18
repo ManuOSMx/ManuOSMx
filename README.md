@@ -34,5 +34,10 @@ while(alive) {
     
 } 😎
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuosmx&show_icons=true&theme=chartreuse-dark&bg_color=30,5C258D,4389A2&disable_animations=false) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuosmx&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=My-Top-Languages)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/ManuOSMx">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManuOSMx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuOSMx&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
