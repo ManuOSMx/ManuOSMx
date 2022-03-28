@@ -25,7 +25,6 @@ Nunca es tarde para aprender y divertirse.
 while(alive) {
 
      eat();
-    
      //sleep();
   
      code();
