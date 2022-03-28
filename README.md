@@ -6,7 +6,6 @@
 
 <img align="right" alt="img" width="25%" height="auto" src="https://th.bing.com/th/id/OIP.tj6tdwSaAeXj7VPhXvqSkAHaHa?pid=ImgDet&rs=1" />
 
-
 Soy **Manuel Ortiz**, actualmente soy estudiante de Ingeniería en Sistemas Computacionales en **ESCOM-IPN**. 💻
 
 Microsoft Learn Student Ambassador 💻
