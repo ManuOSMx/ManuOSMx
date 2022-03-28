@@ -28,7 +28,6 @@ while(alive) {
      //sleep();
      code();
      repeat();
-    
 } 😎
 ```
 <p align="center">
