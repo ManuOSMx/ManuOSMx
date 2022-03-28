@@ -23,7 +23,6 @@ Nunca es tarde para aprender y divertirse.
 
 ```js
 while(alive) {
-
      eat();
      //sleep();
      code();
