@@ -14,7 +14,7 @@ Microsoft Learn Student Ambassador 💻
 :octocat: Después de 3,000 años por fin empezaré a usar GitHub.
 Aquí encontraras mis programas escolares e incluso algunos proyectos independientes. (Próximamente (☞ﾟヮﾟ)☞ ).
 
-Nunca es tarde para aprender y divertirse.
+**Nunca es tarde para aprender y divertirse**.
 
 [![Linkedin: Manuel Ortiz](https://img.shields.io/badge/-manuosmx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuosmx/)](https://www.linkedin.com/in/manuosmx/)
 <a href="https://instagram.com/manuosmx" target="_blank"><img src="https://img.shields.io/badge/@manuosmx_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
