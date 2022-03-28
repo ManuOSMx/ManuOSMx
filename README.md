@@ -30,8 +30,8 @@ while(alive) {
 } 😎
 ```
 <p align="center">
-<a href="https://github.com/ManuOSMx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuosmx&show_icons=true&theme=chartreuse-dark&bg_color=30,5C258D,4389A2&disable_animations=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuosmx&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=My-Top-Languages"/>
-</a>
+     <a href="https://github.com/ManuOSMx">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuosmx&show_icons=true&theme=chartreuse-dark&bg_color=30,5C258D,4389A2&disable_animations=false"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuosmx&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=My-Top-Languages"/>
+     </a>
 </p>
