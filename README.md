@@ -10,7 +10,7 @@ Soy **Manuel Ortiz**, actualmente soy estudiante de Ingeniería en Sistemas Comp
 Microsoft Learn Student Ambassador 💻
 
 :octocat: Después de 3,000 años por fin empezaremos a usar GitHub.
-Aquí encontraras mis programas escolares e incluso algunos proyectos independientes. (Próximamente ) .
+Aquí encontraras mis programas escolares e incluso algunos proyectos independientes. (Próximamente) .
 
 **Nunca es tarde para aprender y divertirse**.
 
