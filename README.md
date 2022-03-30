@@ -7,16 +7,14 @@
 
 I´m **Manuel Ortiz**, I am currently studying Bachelor of Computer Systems Engineering at **ESCOM-IPN**. 💻
 
-Focused on including more people in the world of digital technology and supporting the growth of Latin student communities.
+Focused on including more people in the world of digital technology and supporting the growth of Latin student communities. 
+Here you will find my University programs and even some independent projects. :octocat:
 
 **Co-founder & Lead @ λ Club** 
 
 **Apple Teacher SwiftPlaygrounds @ Apple** 
 
 **Microsoft Learn Student Ambassador @ Microsoft** 💻 
-
-:octocat: 
-Here you will find my University programs and even some independent projects.
 
 ***It's never too late to learn and have fun***.
 
