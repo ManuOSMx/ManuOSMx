@@ -10,7 +10,7 @@ I´m **Manuel Ortiz**, I am currently studying Bachelor of Computer Systems Engi
 **Microsoft Learn Student Ambassador @ Microsoft** 💻 
 
 :octocat: Después de 3,000 años por fin empezaremos a usar GitHub.
-Aquí encontraras mis programas escolares e incluso algunos proyectos independientes.
+Here you will find my University programs and even some independent projects.
 
 ***Nunca es tarde para aprender y divertirse***.
 
