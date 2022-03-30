@@ -35,3 +35,4 @@ while(alive) {
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuosmx&layout=compact&title_color=FFFFFF&theme=algolia&bg_color=30,FF0099,00416A&line_height=200&custom_title=My-Top-Languages"/>
      </a>
 </p>
+.
