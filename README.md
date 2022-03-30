@@ -16,8 +16,6 @@ Here you will find my University programs and even some independent projects. :o
 
 **Microsoft Learn Student Ambassador @ Microsoft** 💻 
 
-***It's never too late to learn and have fun***.
-
 <h3 align="left">CONNECT WITH ME:</h3>
 
 [![Linkedin: Manuel Ortiz](https://img.shields.io/badge/-manuosmx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuosmx/)](https://www.linkedin.com/in/manuosmx/)
@@ -25,6 +23,7 @@ Here you will find my University programs and even some independent projects. :o
 [![Twitter: Manuel Ortiz](https://img.shields.io/twitter/follow/manuosmx?style=social)](https://twitter.com/manuosmx)
 [![GitHub: Manuel Ortiz](https://img.shields.io/github/followers/manuosmx?label=ManuOSMx&style=social)](https://github.com/ManuOSMx)
 
+***It's never too late to learn and have fun***.
 ```js
 while(alive) {
      eat();
