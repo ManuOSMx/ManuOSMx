@@ -15,7 +15,7 @@ Focused on including more people in the world of digital technology and supporti
 
 **Microsoft Learn Student Ambassador @ Microsoft** 💻 
 
-:octocat:
+:octocat: 
 Here you will find my University programs and even some independent projects.
 
 ***It's never too late to learn and have fun***.
