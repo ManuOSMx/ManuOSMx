@@ -7,11 +7,11 @@
 
 I´m **Manuel Ortiz**, I am currently studying Bachelor of Computer Systems Engineering at **ESCOM-IPN**. 💻
 
+**Co-founder & Lead @ λ Club** 
+
 **Apple Teacher SwiftPlaygrounds @ Apple** 
 
 **Microsoft Learn Student Ambassador @ Microsoft** 💻 
-
-**Co-founder & Lead @ λ Club** 
 
 :octocat: Después de 3,000 años por fin empezaremos a usar GitHub.
 Here you will find my University programs and even some independent projects.
