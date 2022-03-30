@@ -5,14 +5,16 @@
 
 <img align="right" alt="img" width="25%" height="auto" src="https://th.bing.com/th/id/OIP.tj6tdwSaAeXj7VPhXvqSkAHaHa?pid=ImgDet&rs=1" />
 
-Soy **Manuel Ortiz**, actualmente soy estudiante de Ingeniería en Sistemas Computacionales en **ESCOM-IPN**. 💻
+I´m **Manuel Ortiz**, actualmente soy estudiante de Ingeniería en Sistemas Computacionales en **ESCOM-IPN**. 💻
 
-Microsoft Learn Student Ambassador 💻
+**Microsoft Learn Student Ambassador @ Microsoft** 💻 
 
 :octocat: Después de 3,000 años por fin empezaremos a usar GitHub.
 Aquí encontraras mis programas escolares e incluso algunos proyectos independientes. (Próximamente).
 
-**Nunca es tarde para aprender y divertirse**.
+***Nunca es tarde para aprender y divertirse***.
+
+<h3 align="left">CONNECT WITH ME:</h3>
 
 [![Linkedin: Manuel Ortiz](https://img.shields.io/badge/-manuosmx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuosmx/)](https://www.linkedin.com/in/manuosmx/)
 <a href="https://instagram.com/manuosmx" target="_blank"><img src="https://img.shields.io/badge/@manuosmx_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
