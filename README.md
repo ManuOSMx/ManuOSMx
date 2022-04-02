@@ -5,7 +5,7 @@
 
 <img align="right" alt="img" width="25%" height="auto" src="https://th.bing.com/th/id/OIP.tj6tdwSaAeXj7VPhXvqSkAHaHa?pid=ImgDet&rs=1" />
 
-I´m **Manuel Ortiz**, I am currently studying Bachelor of Computer Systems Engineering at **ESCOM-IPN**. 💻
+I´m **Manuel Ortiz**, Bachelor of Computer Systems Engineering at **ESCOM-IPN**. 💻
 
 Focused on including more people in the world of digital technology and supporting the growth of Latin student communities. 
 Here you will find my University programs and even some independent projects. :octocat:
