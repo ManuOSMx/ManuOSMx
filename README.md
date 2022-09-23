@@ -12,7 +12,9 @@ Here you will find my University programs and even some independent projects. :o
 
 **Co-founder & Lead @ λ Club** 
 
-**Apple Teacher SwiftPlaygrounds @ Apple** 
+**Apple Teacher SwiftPlaygrounds @ Apple**
+
+**Ninja Developer @ Innovacción Virtual**
 
 **Microsoft Learn Student Ambassador @ Microsoft** 💻 
 
