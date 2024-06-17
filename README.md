@@ -14,8 +14,6 @@ Here you will find my University programs and even some independent projects. :o
 
 **Apple Teacher SwiftPlaygrounds @ Apple**
 
-**Customer Engineer, Computer Vision @ Scale**
-
 **Microsoft Learn Student Ambassador @ Microsoft** 💻 
 
 <h3 align="left">CONNECT WITH ME:</h3>
