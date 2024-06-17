@@ -3,7 +3,7 @@
 *“Invention is the most important product of man's creative brain. The ultimate purpose is the complete mastery of mind over the material world, the harnessing of human nature to human needs.”
 ― Nikola Tesla, My Inventions.*
 
-<img align="right" alt="img" width="25%" height="auto" src="https://th.bing.com/th/id/OIP.tj6tdwSaAeXj7VPhXvqSkAHaHa?pid=ImgDet&rs=1" />
+<img align="right" alt="img" width="25%" height="auto" src="https://manuosmx.github.io/assets/img/lambda.jpg" />
 
 I´m **Manuel Ortiz**, Bachelor of Computer Systems Engineering at **ESCOM-IPN**. 💻
 
