@@ -10,7 +10,7 @@ I´m **Manuel Ortiz**, Bachelor of Computer Systems Engineering at **ESCOM-IPN**
 Focused on including more people in the world of digital technology and supporting the growth of Latin student communities. 
 Here you will find my University programs and even some independent projects. :octocat:
 
-**Co-founder & Lead @ λ Club** 
+- **Co-founder & Lead @ λ Club** 
 
 **Apple Teacher SwiftPlaygrounds @ Apple**
 
