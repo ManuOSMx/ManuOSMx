@@ -16,7 +16,7 @@ Here you will find my University programs and even some independent projects. :o
 
 - **GitHub GitTogethers CDMX Leader @ GitHub :octocat:**
 
-**Microsoft Learn Student Ambassador @ Microsoft** 💻 
+- **Microsoft Learn Student Ambassador @ Microsoft** 💻 
 
 <h3 align="left">CONNECT WITH ME:</h3>
 
