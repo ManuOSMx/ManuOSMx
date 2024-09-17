@@ -14,7 +14,7 @@ Here you will find my University programs and even some independent projects. :o
 
 - **Apple Teacher SwiftPlaygrounds @ Apple**
 
-**GitHub GitTogethers CDMX Leader @ GitHub :octocat:**
+- **GitHub GitTogethers CDMX Leader @ GitHub :octocat:**
 
 **Microsoft Learn Student Ambassador @ Microsoft** 💻 
 
