@@ -12,7 +12,7 @@ Here you will find my University programs and even some independent projects. :o
 
 - **Co-founder & Lead @ λ Club** 
 
-**Apple Teacher SwiftPlaygrounds @ Apple**
+- **Apple Teacher SwiftPlaygrounds @ Apple**
 
 **GitHub GitTogethers CDMX Leader @ GitHub :octocat:**
 
