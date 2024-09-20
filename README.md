@@ -25,7 +25,8 @@ Here you will find my University programs and even some independent projects. :o
 [![Twitter: Manuel Ortiz](https://img.shields.io/twitter/follow/manuosmx?style=social)](https://twitter.com/manuosmx)
 [![GitHub: Manuel Ortiz](https://img.shields.io/github/followers/manuosmx?label=ManuOSMx&style=social)](https://github.com/ManuOSMx)
 
-***"Be yourself"***
+> [!TIP]
+> ***"Be yourself"***
 ```js
 while(alive) {
      eat();
