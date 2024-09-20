@@ -27,6 +27,7 @@ Here you will find my University programs and even some independent projects. :o
 
 > [!TIP]
 > ***"Be yourself"***
+
 ```js
 while(alive) {
      eat();
